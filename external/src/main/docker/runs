@@ -1,0 +1,3 @@
+docker run --name mongo -d -p 27017:27017 -v /data/mongo:/data/db mongo --auth
+docker exec -it mongo mongo admin
+db.createUser({ user: 'order-api', pwd: 'order#123456', roles: [ { role: "readWrite", db: "admin" } ] });

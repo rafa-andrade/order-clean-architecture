@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      database: admin
+      host: 127.0.0.1
+      password: order#123456
+      port: 27017
+      username: order-api
