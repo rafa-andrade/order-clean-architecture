@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=Nsjsiz2A9mg
 
 Clean Architecture por Fabiano Beselga:
 https://www.youtube.com/watch?v=rTu77HmfF-A
+
+Sampler for Clean Architecture/Onion-Architecture
+https://github.com/mp911de/CleanArchitecture
